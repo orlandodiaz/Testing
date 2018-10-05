@@ -3,11 +3,11 @@ This repository is used for testing purposes only
 
 ## Testing TOC
 
- [Heading](#header-1)
-  * [Sub-heading](#header1.1)
+ [Header 1](#header-1)
+  * [Header 1.1](#header-1.1)
     + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
+- [Header 2(#header-2)
+  * [Header 2.1](#header-2.1)
     + [Sub-sub-heading](#sub-sub-heading-1)
 - [Heading](#heading-2)
   * [Sub-heading](#sub-heading-2)
