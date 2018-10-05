@@ -3,8 +3,8 @@ This repository is used for testing purposes only
 
 ## Testing TOC
 
- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
+ [Heading](#header-1)
+  * [Sub-heading](#header1.1)
     + [Sub-sub-heading](#sub-sub-heading)
 - [Heading](#heading-1)
   * [Sub-heading](#sub-heading-1)
